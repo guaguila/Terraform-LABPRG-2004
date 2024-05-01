@@ -30,7 +30,15 @@ variable "subscriptions" {
     },
     104 = {
       xpath = "/interfaces-ios-xe-oper:interfaces"
-
+    },
+    105 = {
+      xpath = "/memory-ios-xe-oper:memory-statistics/memory-statistic"
+    },
+    106 = {
+      xpath = "/cdp-ios-xe-oper:cdp-neighbor-details/cdp-neighbor-detail"
+    },
+    107 = {
+      xpath = "/process-cpu-ios-xe-oper:cpu-usage/cpu-utilization/five-seconds"
     }
   }
 }
