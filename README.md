@@ -2,7 +2,7 @@
 
 # Introduction
 
-These files contain the necessary code to configure the gRPC dial-out subscriptions on the LABPRG-2004 for CLive 2024.
+This repository contains the necessary code to configure the gRPC dial-out subscriptions automatically on the spine switch for LABPRG-2004 for CLive 2024.
 
 ```markdown
 # Terraform Configurations
